@@ -17,5 +17,6 @@
          <password>sa</password>
       </security>
    </datasource>
+   <!-- The other datasources, e.g., for PostgreSQL, are automatically defined in jbossas/standalone/configuration/standalone.xml on the Gear when you install the database cartridge. -->
 </datasources>
 
